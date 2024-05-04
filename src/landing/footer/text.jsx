@@ -10,7 +10,7 @@ const Text = () => {
   return (
     <>
     
-      <div className="flex gap-20 ml-32 mt-10">
+      <div className="flex gap-20 ml-32 -mt-64 text-white">
         <div>
           <h1 className="font-extrabold text-xl ">Follow Us</h1>
           <div className="flex gap-4 my-3">
@@ -56,7 +56,7 @@ const Text = () => {
           </ul>
         </div>
       </div>
-      <div className="flex ml-32 gap-48 my-3">
+      <div className="flex ml-32 gap-48 my-3 text-white">
         <h2>UseFull Links</h2>
         <ul className="flex gap-4">
             <li>About us</li>

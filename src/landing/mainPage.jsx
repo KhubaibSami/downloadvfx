@@ -5,6 +5,7 @@ import StoryBlock from './storyBlock/back'
 import StoryCard from './storyCard/back'
 import About from './about/back'
 import Different from './different/back'
+import Free from './free/text'
 import Footer from './footer/back'
 
 const MainPage = () => {
@@ -16,6 +17,7 @@ const MainPage = () => {
     <StoryCard />
     <About />
     <Different />
+    <Free />
     <Footer />
     </>
   )
